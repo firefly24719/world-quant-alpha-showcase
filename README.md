@@ -45,6 +45,7 @@ What should be learned from each experiment? The human researcher frames the res
 
 ## Explore the Project
 
+- [Getting Started](getting-started/README.md) - a first manual research cycle and reusable prompts.
 - [Research Methodology](research/methodology.md) - hypotheses, controls and interpretation.
 - [Discovery Pipeline](research/discovery_overview.md) - candidate discovery and experimental feedback; see also the [batch pipeline](engineering/batch_pipeline.md).
 - [System Architecture](engineering/system_architecture.md) - research components and evidence flow.
