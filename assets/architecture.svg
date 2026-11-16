@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230" role="img" aria-labelledby="title desc">
+<title id="title">Research system architecture</title><desc id="desc">Research, registry, platform execution, evidence, analysis and human decision.</desc>
+<rect width="1100" height="230" fill="#f5f7f8"/>
+<g font-family="Arial,sans-serif" font-size="16" fill="#182d32" text-anchor="middle">
+<g fill="#ffffff" stroke="#4b7374"><rect x="25" y="65" width="145" height="76" rx="5"/><rect x="202" y="65" width="145" height="76" rx="5"/><rect x="379" y="65" width="145" height="76" rx="5"/><rect x="556" y="65" width="145" height="76" rx="5"/><rect x="733" y="65" width="145" height="76" rx="5"/><rect x="910" y="65" width="155" height="76" rx="5"/></g>
+<text x="97" y="98">Hypotheses</text><text x="97" y="120">and fields</text><text x="274" y="98">Candidate</text><text x="274" y="120">registry</text><text x="451" y="98">Platform</text><text x="451" y="120">simulation</text><text x="628" y="98">Evidence</text><text x="628" y="120">capture</text><text x="805" y="98">Correlation</text><text x="805" y="120">and review</text><text x="987" y="98">Human</text><text x="987" y="120">decision</text>
+<g stroke="#b06a46" stroke-width="2"><path d="M170 103h32 M347 103h32 M524 103h32 M701 103h32 M878 103h32"/></g><text x="550" y="195" font-size="14">Python execution and records  |  AI-assisted research  |  manual submission</text></g></svg>
